@@ -53,3 +53,5 @@ getlatest_hh <- function(writefile=FALSE, pathfilename="/temp/hh_history.csv")
     }
     df
 }
+
+#http://api.eia.gov/series/?api_key=YOUR_API_KEY_HERE&series_id=NG.RNGWHHD.D
